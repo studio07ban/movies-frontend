@@ -38,12 +38,11 @@
 /* 👍 Description stable (250 caractères) */
 .description {
   font-weight: 300;
-  font-size: 14px;
-  line-height: 1.3;
-  max-height: 120px;             
+  font-size: 13px;
+  line-height: 1.25;
+  max-height: 200px;     
   overflow: hidden;
   text-overflow: ellipsis;
-  margin-bottom: 12px;
 }
 
 /* ⭐ Notes */
